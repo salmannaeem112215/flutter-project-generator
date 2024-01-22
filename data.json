@@ -1,0 +1,329 @@
+[
+    {
+        "category": "Ecommerce",
+        "paths": [
+            {
+                "name": "Anon",
+                "project-name":"anon",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/ecommerce_anon",
+                "description": "Explore a unique and anonymous shopping experience with Anon Ecommerce. This platform provides a secure environment for users to browse and purchase items without the need for personal information."
+            },
+            {
+                "name": "Casmart",
+                "project-name":"casmart",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/ecommerce_casmart",
+                "description": "Casmart Ecommerce takes shopping to the next level with a smart and intuitive interface. Discover a wide range of products and enjoy a seamless shopping journey, making your online purchases a breeze."
+            },
+            {
+                "name": "Footcap",
+                "project-name":"footcap",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/ecommerce_footcap",
+                "description": "Step into the world of Footcap, where you'll find an extensive collection of footwear for every occasion. From casual to formal, Footcap Ecommerce ensures you put your best foot forward with the latest and trendiest styles."
+            },
+            {
+                "name": "Loopstudio",
+                "project-name":"loopstudio",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/ecommerce_loopstudio",
+                "description": "Loopstudio Ecommerce brings a loop of endless possibilities for online shoppers. Explore a diverse range of products, and enjoy a visually appealing and user-friendly interface that makes your shopping experience both enjoyable and convenient."
+            },
+            {
+                "name": "NFTC",
+                "project-name":"nftc",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/ecommerce_nftc",
+                "description": "NFTC Ecommerce stands out by offering a collection of unique and valuable NFTs (Non-Fungible Tokens). Dive into the world of digital art and collectibles, where every item is a digital masterpiece."
+            },
+            {
+                "name": "Rdiex",
+                "project-name":"ridex",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/ecommerce_ridex",
+                "description": "Rdiex Ecommerce is your gateway to a world of technology and innovation. Browse through a curated selection of cutting-edge gadgets and electronics, ensuring you stay ahead in the tech game."
+            },
+            {
+                "name": "Shoppie",
+                "project-name":"shoppie",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/ecommerce_shoppie",
+                "description": "Shoppie Ecommerce is designed for those who love variety. Explore a wide array of products ranging from fashion to electronics, all while enjoying a user-friendly interface that makes your shopping experience enjoyable."
+            },
+            {
+                "name": "Cart Page",
+                "project-name":"shopping_cart",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/ecommerce_shopping_cart",
+                "description": "The Cart Page is the hub where your selected items come together before checkout. Manage your shopping cart seamlessly, review your choices, and proceed to purchase with ease, ensuring a smooth and convenient transaction."
+            }
+        ]
+    },
+    {
+        "category": "Portfolio",
+        "paths": [
+            {
+                "name": "Bruce",
+                "project-name":"bruce",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/portfolio_bruce",
+                "description": "Bruce's portfolio showcases a creative individual's work and achievements. Dive into a visual journey that highlights skills, projects, and a unique perspective that defines Bruce's professional identity."
+            },
+            {
+                "name": "Devfolio",
+                "project-name":"devfolio",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/portfolio_devfolio",
+                "description": "Devfolio is a developer's playground, featuring a comprehensive portfolio of coding projects and achievements. Explore the coding prowess of the developer, including web development, app creation, and more."
+            },
+            {
+                "name": "Drew",
+                "project-name":"drew",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/portfolio_drew",
+                "description": "Drew's portfolio is a visual narrative of creativity and design. Discover a portfolio that reflects Drew's artistic talents, featuring a diverse range of projects that showcase design innovation."
+            },
+            {
+                "name": "Ethan",
+                "project-name":"ethan",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/portfolio_ethan",
+                "description": "Ethan's portfolio is a testament to expertise in the digital realm. From graphic design to web development, explore a collection of projects that reflect Ethan's commitment to excellence and creativity."
+            },
+            {
+                "name": "Jack",
+                "project-name":"jack",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/portfolio_jack",
+                "description": "Jack's portfolio is a journey through various creative endeavors. Explore projects that highlight Jack's skills in photography, design, and multimedia, providing a glimpse into a world of visual storytelling."
+            },
+            {
+                "name": "Wren",
+                "project-name":"wren",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/portfolio_wren",
+                "description": "Wren's portfolio is a fusion of art and technology. Explore a collection that showcases Wren's proficiency in both design and development, offering a holistic view of skills and achievements."
+            }
+        ]
+    },
+    {
+        "category": "Services",
+        "paths": [
+            {
+                "name": "Desinic",
+                "project-name":"desinic",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/services_desinic",
+                "description": "Desinic Services cater to the world of design and innovation. Explore a range of design solutions, from branding to user experience, ensuring a visually appealing and impactful presence."
+            },
+            {
+                "name": "Digital Media",
+                "project-name":"digitalmedia",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/services_digitalmedia",
+                "description": "Digital Media Services provide a comprehensive approach to online presence. From content creation to digital marketing, explore services that enhance visibility and engagement in the digital landscape."
+            },
+            {
+                "name": "Picstock",
+                "project-name":"pixstock",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/services_pixstock",
+                "description": "Picstock Services offer a rich repository of stock photos for diverse needs. Discover high-quality images that cater to various themes, providing a valuable resource for creative projects."
+            },
+            {
+                "name": "Techx",
+                "project-name":"techx",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/services_techx",
+                "description": "Techx Services bring technology solutions to the forefront. Explore a range of services that cover software development, IT consulting, and technological innovation, ensuring clients stay at the cutting edge of technology."
+            }
+        ]
+    },
+    {
+        "category": "Food",
+        "paths": [
+            {
+                "name": "Cook",
+                "project-name":"cook",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/food_cook",
+                "description": "Cook Food invites you to a culinary adventure. Explore a variety of recipes, cooking tips, and food-related content that caters to both beginners and seasoned chefs."
+            },
+            {
+                "name": "Crispy",
+                "project-name":"crispy",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/food_crispy",
+                "description": "Crispy Food is a delight for food enthusiasts. Dive into a world of crispy delights, featuring a collection of recipes and culinary inspiration that celebrates the joy of crispy textures."
+            },
+            {
+                "name": "Grilli",
+                "project-name":"grilli",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/food_grilli",
+                "description": "Grilli Food takes you on a journey of grilling perfection. Discover a variety of grilled recipes and tips that elevate your outdoor cooking experience, ensuring every meal is a delicious adventure."
+            }
+        ]
+    },
+    {
+        "category": "Movies",
+        "paths": [
+            {
+                "name": "Filmlane",
+                "project-name":"filmlane",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/movies_filmlane",
+                "description": "Filmlane Movies offers a cinematic escape. Explore a curated selection of films and TV shows, with reviews and recommendations that guide you through the vast landscape of entertainment."
+            },
+            {
+                "name": "Tvflix",
+                "project-name":"tvflix",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/movies_tvflix",
+                "description": "Tvflix Movies caters to the small screen enthusiasts. Dive into a world of TV shows and series, with a user-friendly platform that makes binge-watching your favorite shows a delightful experience."
+            },
+            {
+                "name": "Cineflix",
+                "project-name":"cineflix",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/movies_cineflix",
+                "description": "Cineflix Movies brings the cinema experience to your screen. Explore a diverse collection of movies spanning various genres, with reviews and trailers that help you choose the perfect film for your movie night."
+            }
+        ]
+    },
+    {
+        "category": "Traveling",
+        "paths": [
+            {
+                "name": "Tourest",
+                "project-name":"tourest",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/traveling_tourest",
+                "description": "Tourest Traveling invites you to explore new destinations. Discover travel guides, tips, and inspiring stories that help you plan your next adventure, ensuring memorable and enriching travel experiences."
+            },
+            {
+                "name": "Tourly",
+                "project-name":"tourly",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/traveling_tourly",
+                "description": "Tourly Traveling is your companion in the world of travel. Explore curated itineraries, travel hacks, and destination highlights, making your journey both seamless and enjoyable."
+            },
+            {
+                "name": "Travelia",
+                "project-name":"travelia",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/traveling_travelia",
+                "description": "Travelia Traveling is a portal to diverse travel experiences. Explore a variety of destinations, cultural insights, and travel tips that inspire and guide you in planning your next exploration."
+            }
+        ]
+    },
+    {
+        "category": "Download Page",
+        "paths": [
+            {
+                "name": "EasyBank",
+                "project-name":"easybank",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/donwload_easybank",
+                "description": "EasyBank Download Page offers easy access to financial tools. Explore and download the EasyBank app, ensuring convenient and secure access to your banking needs on the go."
+            },
+            {
+                "name": "Mac Page",
+                "project-name":"page_mac",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/download_page_mac",
+                "description": "Mac Page provides a hub for Mac-related downloads. Explore a collection of software, updates, and resources specifically curated for Mac users, ensuring a seamless and optimized user experience."
+            }
+        ]
+    },
+    {
+        "category": "Education",
+        "paths": [
+            {
+                "name": "Educator",
+                "project-name":"educator",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/education_educator",
+                "description": "Educator Education is a platform dedicated to learning. Explore courses, resources, and educational tools that cater to various subjects and levels, providing a dynamic and enriching learning experience."
+            },
+            {
+                "name": "Eduweb",
+                "project-name":"eduweb",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/education_eduweb",
+                "description": "Eduweb Education is a web-centric approach to learning. Dive into a digital realm of courses, webinars, and interactive educational content that makes learning both accessible and engaging."
+            }
+        ]
+    },
+    {
+        "category": "Game",
+        "paths": [
+            {
+                "name": "Unigine",
+                "project-name":"unigine",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/game_unigine",
+                "description": "Unigine Game takes gaming to new heights. Explore a gaming platform that features cutting-edge graphics and immersive gameplay, ensuring a thrilling and visually stunning gaming experience."
+            },
+            {
+                "name": "Gamics",
+                "project-name":"gamics",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/game_gamics",
+                "description": "Gamics Game invites you to a world of diverse gaming experiences. Explore a range of games, from action-packed adventures to strategic challenges, providing entertainment for gamers of all tastes."
+            }
+        ]
+    },
+    {
+        "category": "Real Estate",
+        "paths": [
+            {
+                "name": "Home Verse",
+                "project-name":"homeverse",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/real_estate_homeverse",
+                "description": "Home Verse Real Estate invites you to discover your dream home. Explore property listings, real estate trends, and resources that guide you through the"
+            },
+            {
+                "name": "Realvine",
+                "project-name":"realvine",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/real_estate_realvine",
+                "description": "Realvine Real Estate provides a comprehensive platform for property seekers. Explore listings, trends, and valuable resources to make informed real estate decisions."
+            }
+        ]
+    },
+    {
+        "category": "UI",
+        "paths": [
+            {
+                "name": "Product Card",
+                "project-name":"product_widget",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/product_widget",
+                "description": "Product Card UI is a showcase of an aesthetically designed product card. Explore the intricacies of user interface design through this visually appealing and functional product card."
+            }
+        ]
+    },
+    {
+        "category": "Transport",
+        "paths": [
+            {
+                "name": "Transpartio",
+                "project-name":"transportio",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/transport_transportio",
+                "description": "Transpartio Transport takes you on a journey through an innovative transportation solution. Explore a seamless and efficient platform designed to enhance your commuting experience."
+            }
+        ]
+    },
+    {
+        "category": "Dashboard",
+        "paths": [
+            {
+                "name": "Admin Dashboard",
+                "project-name":"admin_dashboard",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/admin_dashboard",
+                "description": "Admin Dashboard offers a comprehensive and intuitive interface for managing various aspects of your online platform. Dive into a powerful tool that simplifies administrative tasks and provides valuable insights."
+            }
+        ]
+    },
+    {
+        "category": "Animal",
+        "paths": [
+            {
+                "name": "Wildvine",
+                "project-name":"wildvine",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/animal_wildvine",
+                "description": "Wildvine Animal presents a virtual exploration of the animal kingdom. Immerse yourself in captivating visuals and insightful information about various species, fostering a connection with the wildlife."
+            }
+        ]
+    },
+    {
+        "category": "Blog",
+        "paths": [
+            {
+                "name": "Blogy",
+                "project-name":"blogy",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/blog_blogy",
+                "description": "Blogy Blog invites you into the world of blogging and storytelling. Explore a diverse range of articles, opinions, and narratives, covering topics that captivate and engage readers."
+            }
+        ]
+    },
+    {
+        "category": "Dairy",
+        "paths": [
+            {
+                "name": "Dairy",
+                "project-name":"dairy",
+                "path": "https://magnificent-sundae-76b615.netlify.app/w/dairy_website",
+                "description": "Dairy Website offers a delightful experience for dairy enthusiasts. Explore content related to dairy products, recipes, and industry insights, celebrating the goodness of dairy in various forms."
+            }
+        ]
+    }
+    ]
+    
