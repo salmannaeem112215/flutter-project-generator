@@ -5,6 +5,12 @@ from concurrent.futures import ThreadPoolExecutor
 import os
 import shutil
 
+def create_project(path,name,domain,description):
+    command = f'flutter create "{path+'/'+name}" --org={domain} --project-name={name} --platforms=android --description="{description}"'
+   
+    subprocess.run(command,shell=True)
+
+
 def add_permission_to_manifest(manifest_path):
     with fileinput.FileInput(manifest_path, inplace=True) as file:
         for line in file:
@@ -70,12 +76,12 @@ def move_files(source_path, destination_path):
 
 def update_key_properties(key_properties_path,storePassword=12345678,keyPassword=12345678,storeFile ='C:\\Users\\PMLS\\upload-keystore.jks' ):
     if('\\\\' not in storeFile and '\\' in storeFile ):
-        str.replace(storeFile,'\\','\\\\');
-    
-    print(storeFile)
+        storeFile=storeFile.replace('\\','\\\\')
+    if('/' in storeFile):
+        storeFile = storeFile.replace('/','\\\\')
 
     # Replace or add the key properties in key.properties file
-    new_properties = """
+    new_properties = f"""
     storePassword={storePassword}
     keyPassword={keyPassword}
     keyAlias=upload
@@ -168,16 +174,51 @@ if (keystorePropertiesFile.exists()) {
             else:
                 print(line, end='')
 
+def build(path):
+    import subprocess
+
+def build_flutter_project(project_path):
+    # Change to the project directory
+    os.chdir(project_path)
+
+    # Run 'flutter clean'
+    subprocess.run('flutter clean', shell=True)
+
+    # Run 'flutter pub get'
+    subprocess.run('flutter pub get', shell=True)
+
+    # Run 'flutter build apk'
+    subprocess.run('flutter build apk', shell=True)
+
 # Example usage
-path = "C:/Users/PMLS/Desktop/memnnus pk/projects/Ecommerce/footcap"
-project_path = path
-imgPath = path+'/1.png'
-manifest_path = project_path+'/android/app/src/main/AndroidManifest.xml'
-key_path = project_path+'/android/key.properties'
-build_gradle_path = project_path+'/android/app/build.gradle'
+
+def create_app(path,name,domain,imgPath,url,description):
+    project_path = path+'/'+name
+    manifest_path = project_path+'/android/app/src/main/AndroidManifest.xml'
+    key_path = project_path+'/android/key.properties'
+    build_gradle_path = project_path+'/android/app/build.gradle'
+
+    create_project(path=path,name=name,domain=domain,description=description)
+    add_permission_to_manifest(manifest_path)
+    update_key_properties(key_path)
+    update_build_gradle(build_gradle_path)
+    generate_icon_folders(imgPath,project_path=path)
+
+    build_flutter_project(project_path) 
 
 
-add_permission_to_manifest(manifest_path)
-update_key_properties(key_path)
-update_build_gradle('android/app/build.gradle')
-generate_icon_folders(imgPath,project_path=path)
+
+# Example usage
+path = "C:/Users/PMLS/Desktop/memnnus pk/projects/Ecommerce"
+name = 'test1'
+domain = 'com.menuspk.test1'
+description = 'HI GOOD CODE'
+imgPath = path+'/footcap'+'/1.png'
+url = ''
+
+create_app(path,name,domain,description,imgPath,url)
+
+
+
+
+
